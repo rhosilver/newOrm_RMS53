@@ -14,7 +14,7 @@ iphone:
   BundleURLScheme: "newormspecjs"
 android:
   version: "4.4.2"
-  abis: "x86"
+  abis: ["x86"]
 wp:
   productid: "b5499381-42a8-0130-78de-3caec51bd50e"
 extensions:
